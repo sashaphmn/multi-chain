@@ -48,7 +48,7 @@ Terminal 4:
 make setup-contracts
 ```
 
-Terminal 4:
+Terminal 5:
 
 ```bash
 make start-syncer
